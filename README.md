@@ -16,7 +16,7 @@ The goal is to understand:
 ---  
 
 ## Tools Used
-
+ 
 - MySQL
 - SQL
 - Canva
