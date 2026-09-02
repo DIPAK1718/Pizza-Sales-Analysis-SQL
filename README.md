@@ -11,7 +11,7 @@ The goal is to understand:
 - Revenue trends
 - Best-selling pizzas
 - Category performance
-- Sales distribution patterns
+- Sales distribution patterns 
 
 ---
 
