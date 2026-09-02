@@ -8,7 +8,7 @@ This project analyzes pizza sales data using SQL to extract meaningful business 
 The goal is to understand:
 
 - Customer ordering behavior
-- Revenue trends
+- Revenue trends  
 - Best-selling pizzas
 - Category performance  
 - Sales distribution patterns 
