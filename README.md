@@ -10,7 +10,7 @@ The goal is to understand:
 - Customer ordering behavior
 - Revenue trends
 - Best-selling pizzas
-- Category performance 
+- Category performance  
 - Sales distribution patterns 
 
 --- 
