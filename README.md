@@ -13,7 +13,7 @@ The goal is to understand:
 - Category performance
 - Sales distribution patterns 
 
----
+--- 
 
 ## Tools Used
 
