@@ -14,7 +14,7 @@ The goal is to understand:
 - Sales distribution patterns 
 
 ---  
-
+ 
 ## Tools Used
  
 - MySQL
